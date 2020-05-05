@@ -1,0 +1,5 @@
+Wiki API is a RESTful API deployed in the context of a project for RESTful APIs.
+The main goal was to set all the rules to build a RESTful API.
+The code was written in Atom v1.45 with Node js(Express) v12.16.2.
+The Database is built in robo 3T and is mongoDB. 
+Finally POSTMAN was used to check the requests working. 
